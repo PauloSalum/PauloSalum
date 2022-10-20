@@ -2,8 +2,7 @@
 
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=PauloSalum&label=Profile%20views&color=0e75b6&style=flat" alt="PauloSalum" /> </p>
 
-<h3 align="center">A passionate software developer from Brasil :
-earth_americas:</h3>
+<h3 align="center">A passionate software developer from Brasil :earth_americas:</h3>
 
 # Skills
 
