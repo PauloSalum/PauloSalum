@@ -24,7 +24,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add Readme.md
           git commit -m "Update years of experience [skip ci]" || echo "No changes to commit"
       - name: Push changes
         uses: ad-m/github-push-action@v0.8.0
