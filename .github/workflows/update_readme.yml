@@ -15,7 +15,9 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: pip install datetime
+        run: |
+          ls
+          pip install datetime
       - name: Update README
         run: python update_readme.py
       - name: Commit changes
