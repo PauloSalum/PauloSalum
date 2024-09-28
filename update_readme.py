@@ -8,7 +8,7 @@ with open('Readme.md', 'r', encoding='utf-8') as file:
     content = file.read()
 
 pattern = r'(<span id="years-experience">)[^<]*(</span>)'
-replacement = r'\1{}\2'.format(years_experience)
+replacement = r'\1 {} \2'.format(years_experience)
 
 new_content = re.sub(pattern, replacement, content)
 
