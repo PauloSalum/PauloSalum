@@ -13,5 +13,5 @@ with open('Readme.md', 'r', encoding='utf-8') as file:
 new_content = re.sub(r'<span id="years-experience"></span>', f'{years_experience}', content)
 
 # Write the updated content back to README.md
-with open('README.md', 'w', encoding='utf-8') as file:
+with open('Readme.md', 'w', encoding='utf-8') as file:
     file.write(new_content)
