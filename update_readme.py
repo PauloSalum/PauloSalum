@@ -1,17 +1,16 @@
 import datetime
 import re
 
-# Calculate years of experience
 current_year = datetime.datetime.now().year
 years_experience = current_year - 2018
 
-# Read the README.md file
 with open('Readme.md', 'r', encoding='utf-8') as file:
     content = file.read()
 
-# Replace the placeholder with the calculated years
-new_content = re.sub(r'<span id="years-experience"></span>', f'{years_experience}', content)
+pattern = r'(<span id="years-experience">)[^<]*(</span>)'
+replacement = r'\1{}\2'.format(years_experience)
 
-# Write the updated content back to README.md
+new_content = re.sub(pattern, replacement, content)
+
 with open('Readme.md', 'w', encoding='utf-8') as file:
     file.write(new_content)
