@@ -2,7 +2,7 @@
 
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=PauloSalum&label=Profile%20views&color=0e75b6&style=flat" alt="PauloSalum" /> </p>
 
-Passionate software developer from Brazil :earth_americas: <br> With over **<span id="years-experience"></span> years** of experience in Go, also skilled in Java, Groovy, and Python</h3>
+Passionate software developer from Brazil :earth_americas: <br> With over **6 years** of experience in Go, also skilled in Java, Groovy, and Python</h3>
 
 # Skills
 
