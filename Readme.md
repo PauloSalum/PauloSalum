@@ -16,7 +16,7 @@
 <img alt="Spring" height="30" style="background-color: white; padding: 2px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&amp;amp;amp;logo=spring&amp;amp;amp;logoColor=white" width="80"/>
 <img alt="Kafka" height="30" style="background-color: white; padding: 2px" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&amp;amp;amp;amp;logo=apachekafka" width="80"/>
 <img alt="Fiber" height="30" style="background-color: white; padding: 2px" src="https://user-images.githubusercontent.com/8673533/197023513-3a2f0a8e-4c7b-4377-b633-99159c3a2160.png" width="80"/>
-<img alt="Echo" height="30" style="background-color: white; padding: 2px" src="https://camo.githubusercontent.com/7079c0f1404be1ddf9627e3672faa46f77cd720f0569e3e2748aa3c7849b52d0/68747470733a2f2f63646e2e6c6162737461636b2e636f6d2f696d616765732f6563686f2d6c6f676f2e737667" width="80"/>
+<img alt="Echo" height="30" style="background-color: white; padding: 2px" src="https://github.com/user-attachments/assets/075d1c7d-035a-4658-a463-501c5f44e1a4" width="80"/>
 
 ## Database:
 
