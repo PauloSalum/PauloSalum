@@ -22,7 +22,7 @@ jobs:
         run: python update_readme.py
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
+          git config --local user.email "noreply@github.com"
           git config --local user.name "GitHub Action"
           git add Readme.md
           git commit -m "Update years of experience [skip ci]" || echo "No changes to commit"
